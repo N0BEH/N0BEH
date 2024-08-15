@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff)](https://dotnet.microsoft.com/languages/csharp)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)](https://www.java.com/)
-[![](https://img.shields.io/badge/-JavaScript-239120?style=flat-square&logo=javascript&logoColor=fff)]()
 [![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
@@ -10,6 +9,11 @@
 [![](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![](https://img.shields.io/badge/-PaperMC-DC3345?style=flat-square&logo=minecraft&logoColor=white)](https://papermc.io/)
 [![](https://img.shields.io/badge/-Prophet-2980B9?style=flat-square)](https://facebook.github.io/prophet/)
+
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 
 
