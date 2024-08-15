@@ -20,9 +20,12 @@ Bienvenue sur mon profil ! Voici un aperçu des technologies et outils que j'uti
 ## Bases de Données et Outils 🛠️
 
 [![](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-PaperMC-DC3345?style=flat-square&logo=minecraft&logoColor=white)](https://papermc.io/)
+
 
 ---
 
